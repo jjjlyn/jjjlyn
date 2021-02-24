@@ -1,4 +1,6 @@
-### Hi there 👋
+### 공사 중 🔭
+
+- 📫 Kakao Talk: rnldyal1259
 
 <!--
 **jjjlyn/jjjlyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
